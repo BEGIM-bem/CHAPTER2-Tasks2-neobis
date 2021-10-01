@@ -1,0 +1,41 @@
+body{
+    background:chocolate;
+}
+
+.inputTexst{
+  
+   width: 200px;
+   height: 25px;
+   border-radius: 2px;
+   border: 1px solid black;
+}
+.Giphy__btn{
+    width: 80px;
+    height: 27px;
+    font-size: 18px;
+    background: burlywood;
+    border-radius: 2px;
+    border: 1px solid black;
+    margin-left: 10px;
+
+}
+.Giphy__content{
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+    margin: 10px;
+
+}
+
+.Giphy{
+    display: grid;
+    gap:5px;
+    margin-left: 100px;
+}
+.Giphy__search{
+    display: flex;
+    justify-content:center;
+ 
+}
